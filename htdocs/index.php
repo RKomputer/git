@@ -3,4 +3,5 @@
 	echo "Hello git2";
 	echo "BRANCH";
 	echo "branch master";
+	echo "branch master";
 ?>
